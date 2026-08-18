@@ -6,7 +6,6 @@ GitHub: https://github.com/YuriMenandro
 
 E-mail: iuriporto648@gmail.com
 
-# **Atividade Prática**
 1. Análise de um "Ecossistema de Informação" (Ex: O sistema de uma biblioteca física vs digital).
 2. Explique o conceito de Arquitetura da Informação.
 3. Analise um site institucional e identifique falhas de AI
