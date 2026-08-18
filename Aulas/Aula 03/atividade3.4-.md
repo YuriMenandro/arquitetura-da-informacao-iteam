@@ -1,7 +1,9 @@
 # Atividade Prática
 
 **Nome:**  Yuri Gabriel Porto Corrêa
+
 GitHub: https://github.com/YuriMenandro
+
 E-mail: iuriporto648@gmail.com
 
 # **Atividade Prática**
