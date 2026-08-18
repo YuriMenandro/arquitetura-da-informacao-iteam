@@ -1,20 +1,33 @@
 # Atividade Prática
 
-Nome: Yuri Gabriel Porto Corrêa 
-
+**Nome:**  Yuri Gabriel Porto Corrêa
 GitHub: https://github.com/YuriMenandro
-
 E-mail: iuriporto648@gmail.com
 
-1. Auditoria de Rotulagem. Identificar rótulos confusos em um aplicativo governamental e propor uma nova taxonomia de nomes.
-2. Dado um menu confuso -> melhorar os rótulos
+# **Atividade Prática**
+1. Análise de um "Ecossistema de Informação" (Ex: O sistema de uma biblioteca física vs digital).
+2. Explique o conceito de Arquitetura da Informação.
+3. Analise um site institucional e identifique falhas de AI
 
-# Site escolhido: ITEAM
+
+# 01. Análise de um Ecossistema de Informação
+
+|                 | Biblioteca Física                                     | Biblioteca Digital                                           |
+| --------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| **Organização** | Utiliza sistema de organização exato, como etiquetas. | Usa Abordagem Híbrida combinando esquema exatos com amíguos. |
+| **Rotulagem**   | Placas nos corredores e lombadas                      | Usa termos padronizados.                                     |
+| **Navegação**   | Caminhada física entre as seções                      | Menu principal, links, permite voltar e avançar páginas.     |
+| **Busca**       | Fichários manuais ou consulta ao bibliotecário        | Busca simples ou avançada com opções de filtro.              |
+# 02. Explique o conceito de Arquitetura da Informação
+
+A arquitetura da Informação é a área responsável pela organização e estruturação clara de conteúdos digitais, de forma que o usuário possa navegar facilmente por esse ambiente, identificando e compreendendo informações com eficiência. Essa organização ocorre na interseção de 3 pilares: Usuários, Conteúdo e Contexto.
+
+# 03. Analise um site institucional e identifique falhas de AI
+
+#### Site escolhido: ITEAM
 URL: https://www.iteam.org.br/
 
-O Instituto Tecnológico Educacional do Amazonas (ITEAM), embora não se trate de uma aplicação governamental, atua em parceria com prefeituras e órgãos governamentais para oferecer capacitações profissionais e projetos de tecnologia.
-
-
+O Instituto Tecnológico Educacional do Amazonas (ITEAM) é uma instituição que atua em parceria com prefeituras e órgãos governamentais, focado em pesquisa, desenvolvimento, inovação, capacitações profissionais e projetos de tecnologia.
 
 # Sistemas de Organização identificados:
 
@@ -43,7 +56,7 @@ duplicação de conteúdo para rótulos diferentes. Além disso, a organização
 ```
  O site não apresenta suporte a LIBRAS nem indícios de compatibilidade com leitores de tela, algumas imagens sem descrição e não permite acessar muita coisa apenas com o teclado.
 ```
-### LGPD
+### LGPD:
 ```
 Existe o formulário na seção de "Fale Conosco" em que solicita nome, telefone, e-mail e mensagem sem indicar como esses dados
 serão usados ou armazenados, e não há aviso de consentimento de cookies. O site possui políticas institucionais acessíveis pelo
@@ -53,9 +66,7 @@ Política de Privacidade específica sobre o tratamento de dados coletados no si
 
 # Rótulos
 
-
 Ainda abordando os problemas do sistema ITEAM, embora aparente ser funcional à primeira vista, após uma análise é perceptível que existem falhas que são identificáveis em poucos minutos de navegação.
-
 
 ### "Cursos - CAPDA/SUFRAMA"
 ```
@@ -67,18 +78,7 @@ Usa siglas técnicas que só fazem sentido para quem já conhece o programa, um 
 Novidades acaba sendo um termo muito genérico e a seção está desatualizada. Contém editais antigos e a última atualização foi em 2024.
 ```
 
-# Proposta de Taxonomia
-
-**"Cursos - CAPDA/SUFRAMA" → "Cursos"**
+### Menu
 ```
-Remove a sigla técnica do rótulo, mantendo a informação dos programas dentro da própria página.
+Algumas opções não funcionam no menu ou exibem de maneira inesperado do padrão
 ```
-**"Novidades" → "Editais"**
-```
-Nomeia o conteúdo pelo que ele realmente demonstra ser e corrige o termo genérico.
-```
-
-Manter "Educação Empresarial" como uma página informativa e de apresentação, removendo a listagem dos cursos. A página passaria a ter uma ação de tarefa, como "Confira nossos cursos de 
-Capacitação", direcionando o usuário para a listagem única em Cursos/Capacitação. Isso resolve a duplicação do mesmo conteúdo em páginas diferentes e introduz mais uma organização por
-tarefa, deixando mais dinâmica a experiência do usuário.
-
